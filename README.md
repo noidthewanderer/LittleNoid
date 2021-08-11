@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LittleNoid
-- 👀 I’m interested in computational linguistics, comics, languages, music, and cats
+- 👀 I’m interested in computational linguistics, comics, languages, music, and cool things in life
 - 🌱 I’m currently learning Java and discovering fun things with it
 - 📫 How to reach me - mx626@nyu.edu
 
