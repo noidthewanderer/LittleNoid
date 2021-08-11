@@ -3,4 +3,4 @@ See Design and OOP Concepts.docx for code design and procedure
 
 How to: Compile and run Login.java in terminal
 Note: Case sentitive
-Note: Code must read from MyUniversityCourses.csv in the folder
+Note: Code must read from MyUniversityCourses.csv for the first run
