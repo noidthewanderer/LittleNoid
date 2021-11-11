@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LittleNoid
 - 👀 I’m interested in computational linguistics, manga, languages, music, hot chocolate, and sweet things in life
-- 🌱 I’m currently learning Java and C and having fun with them
+- 🌱 I’m currently having fun with Java and C
 - 📫 How to reach me - mx626@nyu.edu
 
 <!---
