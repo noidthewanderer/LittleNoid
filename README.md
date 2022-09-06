@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noid
+- 👋 Hi, I’m @noidthewanderer
 - 👀 I enjoy computer science, linguistics, existential crisis, and hot chocolate
 - 🌱 I’m currently having fun with Java and C
 - 📫 How to reach me - mx626@nyu.edu
