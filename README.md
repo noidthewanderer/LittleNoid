@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LittleNoid
-- 👀 I’m interested in computational linguistics, manga, languages, music, hot chocolate, and sweet things in life
+- 👋 Hi, I’m @Noid
+- 👀 I enjoy computer science, linguistics, existential crisis, and hot chocolate
 - 🌱 I’m currently having fun with Java and C
 - 📫 How to reach me - mx626@nyu.edu
 
